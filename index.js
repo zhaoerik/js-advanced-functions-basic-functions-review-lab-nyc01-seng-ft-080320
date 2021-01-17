@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-// Your code here
-=======
->>>>>>> da1857c98cc5490dee9a15b99614e43141e3abd0
 function saturdayFun(activity = 'roller-skate') {
     return `This Saturday, I want to ${activity}!`
 }
